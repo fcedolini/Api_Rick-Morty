@@ -12,9 +12,9 @@ Uso:
 Se puede descargar y ejecutar directamente el programa con el .exe (no hace falta el código)
 Nos dirige a una consola de login
 
-	Usuario: fede
+Usuario: fede
  
-	Contraseña: 212121
+Contraseña: 212121
  
 Un mensaje nos avisa si nos conectamos ok y nos redirige a la app
 
